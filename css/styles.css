@@ -24,3 +24,17 @@ body {
 
 p {
   font-size: 20px;
+}
+
+#fancy {
+  font-size: 20px;
+  padding: 100px;
+  text-align: center;
+  border-style: dotted;
+  border-color: rgba(100,0,0,.5);
+  border-width: 10px;
+  width: 900px;
+}
+ol {
+  display: inline-block; text-align: left;
+}
