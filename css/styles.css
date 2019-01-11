@@ -11,4 +11,18 @@ body {
 }
 #loady {
   text-align: center;
+  padding-bottom: 100px;
 }
+
+.marginy {
+  padding: 45px;
+  border-style: solid;
+  border: color blue;
+  width: 1170px;
+  margin-left: 15px;
+}
+
+p {
+  font-size: 20px;
+}
+  
