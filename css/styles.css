@@ -1,5 +1,6 @@
 .why {
-  width: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 body {
@@ -39,4 +40,36 @@ p {
 }
 ol {
   display: inline-block; text-align: left;
+}
+
+.my-row {
+  float:center;
+  height: 100px;
+  width: 964px
+}
+
+.my-container {
+  border: solid green;
+  height: 600px;
+}
+
+.my-col {
+  border: solid blue;
+  height: 80px;
+  padding: 20px;
+  margin: 5px;
+}
+.weird {
+  padding: 100px;
+}
+#resize {
+  text-align: center;
+}
+#BOLD {
+  font-size: 30px
+}
+.fixing {
+  background-color:highlight;
+  padding-top: 10px;
+  margin: 5px;
 }
