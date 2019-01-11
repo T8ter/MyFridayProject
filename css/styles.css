@@ -1,8 +1,14 @@
-.yay {
-text-align: center;
-  color:teal;
-  margin: 40px;
+.why {
+  width: 500px;
 }
-.blue {
-  width:500px;
+
+body {
+  background-color: rgba(90, 90, 0, .25);
+}
+
+.baaad {
+  text-decoration: underline;
+}
+#loady {
+  text-align: center;
 }
