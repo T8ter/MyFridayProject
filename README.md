@@ -6,6 +6,8 @@
 
 ## Description
 
+_Project link to gh-pages, https://t8ter.github.io/MyFridayProject/
+
 _This webpage demonstrates my current understanding and ability to recreate the information I learned in this last weeks course content_
 
 ## Setup
